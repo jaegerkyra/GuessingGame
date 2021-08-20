@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    int secretNum = rand() % 10 + 1;
+    int secretNum = 3;
     int guess{};
     int guessCount = 0;
     int guessLimit = 3;
